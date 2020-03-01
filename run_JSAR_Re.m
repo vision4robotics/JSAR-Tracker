@@ -3,6 +3,13 @@ function results = run_JSAR_Re(seq)
 
 %  Initialize path
 addpath(genpath('ArvTrack_Re_lib/'));
+addpath(genpath('EdgeBox/'));
+addpath(genpath('models/'));
+addpath(genpath('channels/'));
+addpath(genpath('detector/'));
+addpath(genpath('images/'));
+addpath(genpath('matlab/'));
+addpath(genpath('videos/'));
 %  HOG feature parameters
 hog_params.cell_size = 4;
 hog_params.nDim   = 31;

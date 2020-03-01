@@ -25,7 +25,7 @@ Email: [changhong.fu@tongji.edu.cn](mailto:changhong.fu@tongji.edu.cn)
 
 # Demonstration running instructions
 
-This code is compatible with UAV123@10fps, DTB70, UAVDT and UAV20L benchmark. Therefore, if you want to run it in benchmark, just put JSAR folder in trackers, and config sequences and trackers (JSAR or JSAR-Re) according to instructions from aforementioned benchmarks. 
+This code is compatible with UAV123@10fps, DTB70, UAVDT and UAV20L benchmark. Therefore, if you want to run it in benchmark, just put JSAR folder in trackers,  and config sequences and trackers (JSAR or JSAR-Re) according to instructions from aforementioned benchmarks. 
 
 # Results on UAV datasets
 
