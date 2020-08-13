@@ -11,7 +11,9 @@ Current unmanned aerial vehicle (UAV) visual tracking algorithms are primarily l
 
 Fangqiang Ding, Changhong Fu, Yiming Li, Jin Jin and Chen Feng.
 
-Automatic Failure Recovery and Re-Initialization for Online UAV Tracking with Joint Scale and Aspect Ratio Optimization   
+Automatic Failure Recovery and Re-Initialization for Online UAV Tracking with Joint Scale and Aspect Ratio Optimization 
+
+https://arxiv.org/abs/2008.03915
 
 # Contact
 
