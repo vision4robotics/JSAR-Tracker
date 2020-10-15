@@ -15,6 +15,21 @@ Automatic Failure Recovery and Re-Initialization for Online UAV Tracking with Jo
 
 https://arxiv.org/abs/2008.03915
 
+If you want to refer to this paper, please cite it as follows:
+
+@article{Ding2020Auto,
+
+author = {Fangqiang Ding and Changhong Fu and Yiming Li and Jin Jin and Chen Feng},
+
+title = {Automatic Failure Recovery and Re-Initialization for Online UAV Tracking with Joint Scale and Aspect Ratio Optimization},
+
+Year = {2020},
+
+journal = {arXiv:2008.03915}
+
+}
+
+
 # Contact
 
 Fangqiang Ding
@@ -57,4 +72,4 @@ This code is compatible with UAV123@10fps, DTB70, UAVDT and UAV20L benchmark. Th
 
 # Acknowledgements
 
-We thank the contribution of  Feng Li and Ning Wang for their previous work STRCF and  MCCT-H.  The feature extraction modules and some of the parameter are borrowed from the MCCT tracker (https://github.com/594422814/MCCT). 
+We thank the contribution of Feng Li and Ning Wang for their previous work STRCF and MCCT-H. The feature extraction modules and some of the parameter are borrowed from the MCCT tracker (https://github.com/594422814/MCCT). 
